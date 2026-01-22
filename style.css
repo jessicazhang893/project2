@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 30px;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 60px;
+    font-style: italic;
+    color: rgb(70, 67, 86);
+}
+
+p {
+    font-size: 30px;
+}
